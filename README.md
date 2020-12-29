@@ -8,7 +8,7 @@
   - ice storm: <img src="https://www.creeksidetile.com/img/products/1341/15138989220.jpg" width=100>
   - aqua: <img src="https://www.creeksidetile.com/img/products/1341/15138984020.jpg" width=100>
 
-#### [Wayfair]()
+#### [Wayfair](https://www.wayfair.ca/)
 - [Solid Morning Fishscale Hand-Crafted 8" x 8" Field Tile](https://www.wayfair.ca/home-improvement/pdp/villa-lagoon-tile-solid-morning-fishscale-hand-crafted-8-x-8-field-tile-vltv1181.html?piid=39952579)
 - cost: $53.99/sq ft
 - possible colours:
