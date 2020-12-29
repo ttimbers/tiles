@@ -19,3 +19,9 @@
 - cost: unknown
 - possible colours:
   - blue: <img src="https://www.tilemastercanada.com/uploads/tiles/so-fs-048l-slide-1-860x860.jpg" width=100>
+
+#### [Hailey and Mags tile](https://www.haileyandmags.com/)
+- [Modelli Glossy Porcelain Fish Scale Mosaic Tiles - Aqua Blue](https://www.haileyandmags.com/products/modelli-glossy-ceramic-fish-scale-mosaic-tiles-aqua?_pos=26&_sid=ba8332777&_ss=r&variant=35594637443228)
+- cost: $15.95/sq ft
+- possible colours:
+  - aqua blue: <img src="https://cdn.shopify.com/s/files/1/2786/3066/products/modelliporcelainfishscalemosaictile1_1024x1024.jpg?v=1597803843" width=100>
